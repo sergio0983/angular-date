@@ -1,0 +1,19 @@
+{
+  "name": "angular-date",
+  "version": "0.1.0",
+  "description": "datetime utilities",
+  "main": "angular.date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergio0983/ng-date.git"
+  },
+  "author": "sergio0983 | AlboradaIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergio0983/ng-date/issues"
+  },
+  "homepage": "https://github.com/sergio0983/ng-date#readme"
+}
